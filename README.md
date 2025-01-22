@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Raj Kumar
 
 ## About Me
-I am a Data Analyst with a passion for solving problems using data. With expertise in Python, SQL, Power BI, and other analytical tools, I aim to derive actionable insights to drive decision-making.
+"I am an aspiring Data Analyst with a passion for solving problems using data. With expertise in Python, SQL, Power BI, and advanced analytical tools, I strive to transform complex data into actionable insights that drive strategic decision-making and foster business growth.
+
+Currently, I am actively seeking a Data Analyst role to apply my skills and contribute to impactful projects, while enhancing my knowledge in Machine Learning to stay ahead in the field."
 
 
 - 🌱 I’m learning: Advanced Python for Data Analysis and Machine Learning.
