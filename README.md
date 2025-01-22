@@ -6,7 +6,7 @@ I am a Data Analyst with a passion for solving problems using data. With experti
 
 - 🌱 I’m learning: Advanced Python for Data Analysis and Machine Learning.
 - 📫 How to reach me: [rajkumar18w19@gmail.com](mailto:rajkumar18w19@gmail.com)
-- 💼 Check out my portfolio: [rajkumar2717.github.io]([https://rajkumar2717.github.io) *(optional)*
+- 💼 Check out my portfolio: [rajkumar.github.io](https://rajkumar.github.io)
 
 ---
 
@@ -21,8 +21,8 @@ I am a Data Analyst with a passion for solving problems using data. With experti
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/rajkumar]([https://linkedin.com/in/rajkumar](https://www.linkedin.com/in/rajkumar-jataboina-b148a8251/))
-- **GitHub**: [github.com/rajkumar]([https://github.com/rajkumar](https://github.com/Rajkumar2717))
+- **LinkedIn**: [Raj Kumar Jataboina](https://www.linkedin.com/in/rajkumar-jataboina-b148a8251/)
+- **GitHub**: [github.com/rajkumar](https://github.com/rajkumar)
 - **Email**: [rajkumar18w19@gmail.com](mailto:rajkumar18w19@gmail.com)
 
 ---
