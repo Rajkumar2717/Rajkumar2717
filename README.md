@@ -22,7 +22,7 @@ I am a Data Analyst with a passion for solving problems using data. With experti
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Raj Kumar Jataboina](https://www.linkedin.com/in/rajkumar-jataboina-b148a8251/)
-- **GitHub**: [github.com/rajkumar](https://github.com/rajkumar)
+- **GitHub**: [github.com/rajkumar](https://github.com/Rajkumar2717)
 - **Email**: [rajkumar18w19@gmail.com](mailto:rajkumar18w19@gmail.com)
 
 ---
