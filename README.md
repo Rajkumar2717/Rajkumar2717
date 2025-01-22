@@ -3,7 +3,7 @@
 ## About Me
 "I am an aspiring Data Analyst with a passion for solving problems using data. With expertise in Python, SQL, Power BI, and advanced analytical tools, I strive to transform complex data into actionable insights that drive strategic decision-making and foster business growth.
 
-Currently, I am actively seeking a Data Analyst role to apply my skills and contribute to impactful projects, while enhancing my knowledge in Machine Learning to stay ahead in the field."
+I am currently looking for a Data Analyst role and am also learning Machine Learning to expand my skill set and stay ahead in the field."
 
 
 - 🌱 I’m learning: Advanced Python for Data Analysis and Machine Learning.
