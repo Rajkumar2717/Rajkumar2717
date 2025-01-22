@@ -4,7 +4,7 @@
 I am a Data Analyst with a passion for solving problems using data. With expertise in Python, SQL, Power BI, and other analytical tools, I aim to derive actionable insights to drive decision-making.
 
 
-- 🌱 I’m learning: Advanced Python for Data Analysis and Machine Learning basics.
+- 🌱 I’m learning: Advanced Python for Data Analysis and Machine Learning.
 - 📫 How to reach me: [rajkumar18w19@gmail.com](mailto:rajkumar18w19@gmail.com)
 - 💼 Check out my portfolio: [rajkumar2717.github.io]([https://rajkumar2717.github.io) *(optional)*
 
