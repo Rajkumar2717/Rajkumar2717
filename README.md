@@ -18,8 +18,8 @@
 ## 🔧 Tools & Technologies
 - **Programming Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Beautiful Soup
-- **Databases**: PostgreSQL, SQL Server
-- **Visualization Tools**: Power BI, Microsoft Excel
+- **Databases**: SQL, Mysql, Postgresql, SQL Server
+- **Visualization Tools**: Power BI (DAX Queries, Dashboards), Microsoft Excel (Vlookup, Pivot Tables, Reporting)
 - **Version Control**: Git, GitHub
 - **IDE & Tools**: VS Code, Jupyter Notebook, Anaconda
 
